@@ -1,4 +1,28 @@
-# Learn how to be a data scientist
+# Learn how to be a data scientist and bioinformatician
+# 成为数据科学家和生物信息专家
+
+## Algorithms in Bioinformatics
+### [Sequence alignment](Algorithms_in_bioinformatics)
+- Needleman Wunsch algorithm
+- Smith Waterman algorithm
+- Banded dynamic programming
+- X-drop algorithm
+
+### [Multiple sequence alignment]
+| Algorithm  | Notes | Implementation
+| ------------- | ------------- |
+| Dynamic programming  | [msa_dynamic_programming](Notes/msa_dynamic_programming.pdf)  |
+| Center Star  | msa_center_star  |
+
+## Multivariate Analysis I: Fundamentals
+
+## Multivariate Analysis II: Structural Equation Modelling
+
+## Probabilistc Graphical Model
+
+## Statistics
+### Basic Statistics
+### Advanced statistical methods
 
 ## Python
 ### [Advanced python](Python/Advanced_python) 
@@ -23,10 +47,6 @@
 - 双向列表
 - 单向循环列表
 - 链表和顺序表的比较
-
-### Algorithm
-
-## Statistics
 
 ## Machine learning
 ### [Classical algorithms](Machine_learning/Classical_algorithms)
