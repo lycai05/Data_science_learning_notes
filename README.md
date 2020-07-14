@@ -2,11 +2,19 @@
 ## 成为数据科学家和生物信息专家
 
 ### Algorithms in Bioinformatics
-#### [Sequence alignment](Algorithms_in_bioinformatics)
-- Needleman Wunsch algorithm
-- Smith Waterman algorithm
-- Banded dynamic programming
-- X-drop algorithm
+#### Sequence alignment
+| Algorithm  | Notes | Implementation |
+| ------------- | ------------- | ------------- |
+| Needleman Wunsch algorithm | | [Dynamic_Programming_Needleman_Wunsch_algorithm.ipynb](Algorithms_in_bioinformatics/Implementation/Dynamic_Programming_Needleman_Wunsch_algorithm.ipynb) |
+| Smith Waterman algorithm | | [Local_alignment_Smith_Waterman.ipynb](Algorithms_in_bioinformatics/Implementation/Local_alignment_Smith_Waterman.ipynb) |
+| Banded dynamic programming | [Banded_Dynamic_Programming.ipynb](Algorithms_in_bioinformatics/Implementation/Banded_Dynamic_Programming.ipynb) |
+
+
+#### Database search
+| Algorithm  | Notes | Implementation |
+| ------------- | ------------- | ------------- |
+| Blast v1 | | [Blast_v1.ipynb](Algorithms_in_bioinformatics/Implementation/Blast_v1.ipynb) |
+| X-drop algorithm | | |
 
 #### Multiple sequence alignment
 | Algorithm  | Notes | Implementation |
@@ -14,15 +22,15 @@
 | Dynamic programming  | [msa_dynamic_programming](Algorithms_in_bioinformatics/Notes/msa_dynamic_programming.pdf)  |
 | Center Star  | msa_center_star  |
 
+### Statistics
+#### Basic Statistics
+#### Advanced statistical methods
+
 ### Multivariate Analysis I: Fundamentals
 
 ### Multivariate Analysis II: Structural Equation Modelling
 
 ### Probabilistc Graphical Model
-
-### Statistics
-#### Basic Statistics
-#### Advanced statistical methods
 
 ### Python
 ###3 [Advanced python](Python/Advanced_python) 
