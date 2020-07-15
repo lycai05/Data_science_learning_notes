@@ -7,8 +7,7 @@
 | ------------- | ------------- | ------------- |
 | Needleman Wunsch algorithm | | [Dynamic_Programming_Needleman_Wunsch_algorithm.ipynb](Algorithms_in_bioinformatics/Implementation/Dynamic_Programming_Needleman_Wunsch_algorithm.ipynb) |
 | Smith Waterman algorithm | | [Local_alignment_Smith_Waterman.ipynb](Algorithms_in_bioinformatics/Implementation/Local_alignment_Smith_Waterman.ipynb) |
-| Banded dynamic programming | [Banded_Dynamic_Programming.ipynb](Algorithms_in_bioinformatics/Implementation/Banded_Dynamic_Programming.ipynb) |
-
+| Banded dynamic programming | | [Banded_Dynamic_Programming.ipynb](Algorithms_in_bioinformatics/Implementation/Banded_Dynamic_Programming.ipynb) |
 
 #### Database search
 | Algorithm  | Notes | Implementation |
@@ -19,12 +18,19 @@
 #### Multiple sequence alignment
 | Algorithm  | Notes | Implementation |
 | ------------- | ------------- | ------------- |
-| Dynamic programming  | [msa_dynamic_programming](Algorithms_in_bioinformatics/Notes/msa_dynamic_programming.pdf)  |
+| Dynamic programming  | [msa_dynamic_programming](Algorithms_in_bioinformatics/Notes/msa_dynamic_programming.pdf) |
 | Center Star  | msa_center_star  |
 
 ### Statistics
-#### Basic Statistics
-#### Advanced statistical methods
+#### [Probability and Statistical inference](Statistics/Probability/basic_statistics.pdf)
+Key concepts: Types of data, Descriptive statistics, Probability, Random Variable, Expectation, Sampling distribution, standard error
+
+#### Statistical inference
+Key concepts: Point estimates, Confidence intervals (CI), sample size, t-test, Chi-square test, ANOVA, Non-parametric test
+
+#### Advanced statistics
+- [极大似然法](Statistics/Advanced_statistical_modelling/极大似然法.ipynb)
+
 
 ### Multivariate Analysis I: Fundamentals
 
@@ -33,18 +39,17 @@
 ### Probabilistc Graphical Model
 
 ### Python
-###3 [Advanced python](Python/Advanced_python) 
-- 私有化属性和方法
-- 魔法属性
-- Super关键字和多继承
-- With和上下文管理器
-- 使用import导入模块
-- 理解鸭子类型
-- 实例变量和类变量
-- 实例方法，类方法和静态方法
-- 正则表达式
-- 浅拷贝和深拷贝
-
+### Advanced python
+- [私有化属性和方法](Python/Advanced_python/python中的私有化属性和方法.ipynb)
+- [魔法属性](Python/Advanced_python/python中的魔法方法和魔法属性.ipynb)
+- [Super关键字和多继承](Python/Advanced_python/super关键字和多继承.ipynb)
+- [With和上下文管理器](Python/Advanced_python/with和上下文管理器.ipynb)
+- [使用import导入模块](Python/Advanced_python/使用import导入模块.ipynb)
+- [理解鸭子类型](Python/Advanced_python/使用鸭子类型实现多态.ipynb)
+- [实例变量和类变量](Python/Advanced_python/实例变量和类变量.ipynb)
+- [实例方法，类方法和静态方法](Python/Advanced_python/实例方法，类方法和静态方法.ipynb)
+- [正则表达式](Python/Advanced_python/正则表达式.ipynb)
+- [浅拷贝和深拷贝](Python/Advanced_python/深拷贝浅拷贝.ipynb)
 
 ### CS fundamentals
 #### [Data structure](CS_fundamentals/Data_structure)
