@@ -18,8 +18,34 @@
 #### Multiple sequence alignment
 | Algorithm  | Notes | Implementation |
 | ------------- | ------------- | ------------- |
-| Dynamic programming  | [msa_dynamic_programming](Algorithms_in_bioinformatics/Notes/msa_dynamic_programming.pdf) |
-| Center Star  | msa_center_star  |
+| Global optimization method: Dynamic programming  | [msa_dynamic_programming](Algorithms_in_bioinformatics/Notes/msa_dynamic_programming.pdf) |
+| Approximation method: Center Star  | [center_star](Algorithms_in_bioinformatics/Notes/center_star.pdf) |
+| Heuristic method I (Progressive): ClusterW | | 
+| Heuristic method II (Iterative): MUSCLE | | 
+| Probabilistic method | |
+
+### Machine learning
+#### [Classical algorithms](Machine_learning/Classical_algorithms)
+| Methods  | Notes | Implementation |
+| ------------- | ------------- | ------------- |
+| Discriminative and generative model | [types_of_model](Machine_learning/Notes/types_of_model.pdf) | |
+| Evaluation metrics | [evaluation_metrics](Machine_learning/Notes/evaluation_metrics.pdf) | |
+| Linear discriminative model | [linear_discriminative_model](Machine_learning/Notes/linear_discriminative_model.pdf) | |
+
+##### 使用numpy实现
+- 简单线性回归
+- 多远线性回归
+- 理解如何使用梯度下降算法优化损失函数
+- 在线性回归中使用梯度下降算法
+- K means聚类
+
+##### 使用sklearn实现
+- K邻近算法
+- 朴素贝叶斯
+- 逻辑回归
+
+##### Others
+- 时间复杂度和大O表示法
 
 ### Statistics
 #### [Probability and Statistical inference](Statistics/Probability/basic_statistics.pdf)
@@ -60,19 +86,3 @@ Key concepts: Point estimates, Confidence intervals (CI), sample size, t-test, C
 - 单向循环列表
 - 链表和顺序表的比较
 
-### Machine learning
-#### [Classical algorithms](Machine_learning/Classical_algorithms)
-##### 使用numpy实现
-- 简单线性回归
-- 多远线性回归
-- 理解如何使用梯度下降算法优化损失函数
-- 在线性回归中使用梯度下降算法
-- K means聚类
-
-##### 使用sklearn实现
-- K邻近算法
-- 朴素贝叶斯
-- 逻辑回归
-
-##### Others
-- 时间复杂度和大O表示法
